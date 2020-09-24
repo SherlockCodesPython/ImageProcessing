@@ -1,2 +1,2 @@
 # ImageProcessing
-All Image Processing Project can be found here.
+These projects were created on a learning process as a beginner.   
